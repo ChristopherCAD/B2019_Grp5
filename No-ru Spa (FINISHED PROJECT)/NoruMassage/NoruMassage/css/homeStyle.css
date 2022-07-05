@@ -1,0 +1,275 @@
+﻿body {
+    background-image: url('../imgs/SpaWebImage.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Century Gothic';
+}
+
+.homepage {
+    height: 2200px;
+    width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ADCF9F;
+    border-radius: 40px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.navBarTop {
+    width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+ul {
+    height: 65px;
+    height: 65px;
+    list-style-type: none;
+    padding: 13px 0;
+    background-image: linear-gradient(-45deg, #76BA99, #CED89E, #ADCF9F, #CED89E, #ADCF9F,#76BA99);
+    border-radius: 40px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+a:hover {
+
+    background-color: #3AB0FF;
+
+    font-size: 2px;
+    color: aquamarine;
+
+    border-radius: 5px;
+
+}
+
+a:active {
+
+    background-color: #3AB0FF;
+
+}
+
+#homeRef {
+    margin-left: 300px;
+    margin-top: 50px;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+}
+
+a#srvcs {
+    margin-left: 5px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+}
+
+a#sched {
+    margin-left: 5px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+}
+
+a#loc {
+    margin-left: 5px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+}
+
+a#contact {
+    margin-left: 5px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+}
+
+a#info {
+    margin-left: 5px;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+}
+
+#navLogoImg {
+    margin-left: 10px;
+    background-color: white;
+    padding: 2px;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    vertical-align: bottom;
+}
+
+.webImg {
+    float: left;
+    margin-left: 50px;
+    height: 50px;
+    width: 110px;
+}
+
+.divHeader {
+    height: 90px;
+    border-bottom: double white 1px;
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.divBody, .divBody2, .divBody3, .divBody4, .divBody5 {
+    padding: 0px;
+    height: 400px;
+    background-color: white;
+    border-bottom: 3px solid rgb(173, 207, 159);
+    padding: 0;
+}
+
+
+.divFloatRight1 {
+    height: 100%;
+    width: 50%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/introImg1.jpg');
+    background-position: center;
+}
+
+.divImg2 {
+    height: 100%;
+    width: 50%;
+    float: right;
+    margin-right: 0px;
+    padding: 20px;
+
+    background-image: url('../imgs/acupuncture.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ .divImg3 {
+
+    height: 100%;
+    width: 50%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/scentedCollection.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+ }
+
+ .divImg4 {
+    height: 100%;
+    width: 50%;
+    float: right;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/lakesideLoc.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+  .divImg5 {
+    height: 100%;
+    width: 50%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/sunset.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.divFloat {
+    width: 45%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.divFloatRight2 {
+    width: 45%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.divFloatRight3 {
+    width: 45%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.divFloatRight4 {
+    width: 45%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.divFloatRight5 {
+    width: 45%;
+    float: right;
+    margin-right: 0px;
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+.cont2 {
+    width: 45%;
+    float: right;
+    margin-right: 0px;
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#introImage {
+    height: 300px;
+}
+
+
+/** SERVICES CSS **/
