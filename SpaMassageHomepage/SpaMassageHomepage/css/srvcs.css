@@ -1,0 +1,194 @@
+﻿div.a {
+
+    text-align: right;
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+
+}
+
+.divBody {
+    padding: 0px;
+    height: 400px;
+    background-color: white;
+    border-bottom: 3px solid rgb(173, 207, 159);
+    padding: 0;
+}
+.divImg1{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/massage01.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.divImg2{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/massage02.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg3{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/massage03.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg4{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/massage04.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg5{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/massage05.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg6{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/foot01.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg7{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/foot02.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg8{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/massage06.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg9{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/face01.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg10{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/face02.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg11{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/mercado.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg12{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/mercado2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.divImg13{
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    background-image: url('../imgs/mercado3.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.rightSide {
+
+    width: 45%;
+    float: left;
+    margin-right: 0px;
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
